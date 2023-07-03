@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\bin\Debug\net6.0\iniciando-csharp.exe
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\bin\Debug\net6.0\iniciando-csharp.deps.json
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\bin\Debug\net6.0\iniciando-csharp.runtimeconfig.json
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\bin\Debug\net6.0\iniciando-csharp.dll
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\bin\Debug\net6.0\iniciando-csharp.pdb
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\iniciando-csharp.csproj.AssemblyReference.cache
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\iniciando-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\iniciando-csharp.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\iniciando-csharp.AssemblyInfo.cs
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\iniciando-csharp.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\iniciando-csharp.dll
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\refint\iniciando-csharp.dll
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\iniciando-csharp.pdb
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\iniciando-csharp.genruntimeconfig.cache
+C:\Users\T-GAMER\Desktop\Atividade de Cursos\C# - COD3R\iniciando-csharp\obj\Debug\net6.0\ref\iniciando-csharp.dll
