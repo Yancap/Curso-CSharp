@@ -6,7 +6,7 @@
     <RootNamespace>iniciando_csharp</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>iniciando_csharp._9_Metodos_de_Dados.MetodosDeString</StartupObject>
+    <StartupObject>iniciando_csharp.a11_Topicos_Avançados._2_LINQ2</StartupObject>
   </PropertyGroup>
 
   <ItemGroup>

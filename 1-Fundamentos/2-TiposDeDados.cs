@@ -41,6 +41,19 @@ namespace iniciando_csharp.Fundamentos {
          // Strings e Char
             char letra = 'a'; //Armazena uma letra, utiliza aspas simples ' '
             string palavra = "olá mundo"; //Armazena palavras, utiliza aspas duplas " "
+
+         // Dynamics: são dados dinamicos que permite mudar os tipos de dados
+            dynamic dinamico = "teste"; //string
+            Console.WriteLine(dinamico);
+
+            dinamico = 2; //int
+            Console.WriteLine(dinamico);
+
+            dinamico = true; //boolean
+            Console.WriteLine(dinamico);
+
+            dinamico = 2.50; //double
+            Console.WriteLine(dinamico);
         }
 
     }
